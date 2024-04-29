@@ -2,6 +2,8 @@
 Gerenciador de Tarefas em PHP
 Este é um simples gerenciador de tarefas desenvolvido em PHP, que permite aos usuários adicionar, visualizar e limpar tarefas. O sistema utiliza sessões para armazenar as tarefas adicionadas, garantindo que elas persistam entre diferentes requisições HTTP.
 
+![image info](tela.png)
+
 # 🔨🧐<span style="color: darkblue"> **Funcionalidades Principais:** </span>
 ``Adicionar Tarefa:`` Os usuários podem inserir o nome de uma nova tarefa em um formulário e cadastrá-la no sistema.
 ``Visualizar Tarefas:`` As tarefas cadastradas são exibidas em uma lista, permitindo aos usuários visualizá-las facilmente.
