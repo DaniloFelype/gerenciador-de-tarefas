@@ -41,6 +41,10 @@ var_dump() é uma função usada para exibir informações detalhadas sobre uma 
 ``unset()``
 unset() é uma função utilizada para destruir uma variável especificada, tornando-a não definida. Pode ser usada para liberar a memória ocupada por uma variável ou remover um elemento específico de um array.
 
+# Inspiração
+``Canal Monolitophp``<br>
+[![imagem canal](canal.png)](https://youtube.com/@monolitophp360)
+
 # <span style="color: Goldenrod">✍️(◔◡◔)</span> <span style="color: darkblue"> **Autor** </span>
 
 <img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/127853755?s=400&u=0258f87ad131f48ebda0ce59c807b8ef147ae6a5&v=4" width="150px">
