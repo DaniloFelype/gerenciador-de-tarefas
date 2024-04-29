@@ -52,6 +52,9 @@ unset() é uma função utilizada para destruir uma variável especificada, torn
 [Danilo Felype Lima](https://github.com/DaniloFelype)
 
 <p align="left">
+  
   <a href="mailto:danilo87651@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" /></a>
+   <a href="#" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/danilofelype?igsh=MTVlc295Yzd6OW56aw==" alt="Instagram"/></a>
   </p>
